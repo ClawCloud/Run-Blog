@@ -71,10 +71,6 @@ A bit awkward—I was certain I didn’t enter the wrong password (I even double
 Scroll to the bottom of the **Details** page and open the SSH command management interface. Run the following command:
 
 ```
-bash
-
-
-复制编辑
 ./alist admin set yourpassword
 ```
 
